@@ -1,7 +1,7 @@
-# Browser Extension Tempalte
+# Hide Slack Activity
 
 ## Abstract
-This is a template for Chrome browser extensions.
+This Chrome browser extension hides the enable desktop notifications banner, the "more unreads" buttons, and the activity badge app icon. 
 
 ## Tech Stack
 This project uses vanilla JS, CSS, and HTML.
@@ -9,12 +9,13 @@ This project uses vanilla JS, CSS, and HTML.
 ## Setup/Installation
 You can clone the repo locally using `git clone`.
 
-[This article](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked) offers detailed instructions on loading an unpacked chrome extension. You can navigate to the chrome extensions page via the puzzle piece icon in the toolbar. Enable "developer mode" on the top-right. From there, you can click "load unpacked extension" and choose the folder via the popup. You should then see the chart icon appear in the toolbar. When you click on it, you can see "Hide LinkedIn Applicants."
+[This article](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked) offers detailed instructions on loading an unpacked chrome extension. You can navigate to the chrome extensions page via the puzzle piece icon in the toolbar. Enable "developer mode" on the top-right. From there, you can click "load unpacked extension" and choose the folder via the popup. You should then see the Slack icon appear in the toolbar. When you click on it, you can see "Hide Slack Activity."
 
-** insert specific instructions here **
+When you navigate to a Slack workspace website, you should no longer be prompted to enable desktop notifications if they're not enabled, see any badge icon indicating activity, or see the "more unreads" buttons. 
 
 ## Screenshots
 
-## Future Changes
 
+## Future Changes
+In the future, I hope to port this extension to Firefox as well. 
 
