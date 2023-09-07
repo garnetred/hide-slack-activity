@@ -1,3 +1,4 @@
-.css-selector {
+/* "more unreads" button, enable desktop notifications banner, and mention badge */
+.p-channel_sidebar__banner--unreads, .p-workspace_banner__desktop-notifications, .c-mention_badge {
   display: none !important;
 }
