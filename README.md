@@ -1,10 +1,9 @@
 # Hide Slack Activity
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/decemberthedeveloper)
+
 ## Abstract
 This Chrome browser extension hides the enable desktop notifications banner, the "more unreads" buttons, and the activity badge app icon. 
-
-## Donate 
-You can support this extension by [buying me a coffee](https://www.buymeacoffee.com/decemberthedeveloper) to help me continue to make free, user-friendly browser extensions.
 
 ## Tech Stack
 This project uses vanilla JS, CSS, and HTML.
