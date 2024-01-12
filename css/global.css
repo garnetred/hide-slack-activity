@@ -2,3 +2,8 @@
 .p-channel_sidebar__banner--unreads, .p-workspace_banner__desktop-notifications, .c-mention_badge {
   display: none !important;
 }
+
+
+.c-message_kit__hidden_message_blur {
+  filter: blur(0) !important;
+}
