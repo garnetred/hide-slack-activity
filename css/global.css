@@ -11,3 +11,7 @@
 .c-message_kit__hidden_message_blur {
   filter: blur(0) !important;
 }
+
+.c-message_kit__hidden_message_blur * {
+  pointer-events: auto !important;
+}
