@@ -4,7 +4,7 @@
 
 ## Abstract
 This Chrome browser extension does the following:
--hides the enable desktop notifications banner
+- hides the enable desktop notifications banner
 - removes the "more unreads" buttons
 - removes the activity badge app icon
 - removes the slack activity button to hide the carousel of emojis
