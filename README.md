@@ -19,7 +19,7 @@ You can clone the repo locally using `git clone`.
 
 [This article](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked) offers detailed instructions on loading an unpacked chrome extension. You can navigate to the chrome extensions page via the puzzle piece icon in the toolbar. Enable "developer mode" on the top-right. From there, you can click "load unpacked extension" and choose the folder via the popup. You should then see the Slack icon appear in the toolbar. When you click on it, you can see "Hide Slack Activity."
 
-When you navigate to a Slack workspace website, you should no longer be prompted to enable desktop notifications if they're not enabled, see any badge icon indicating activity, or see the "more unreads" buttons. You should not see the Slack activity button. You should be able to see some posts older than 90 days and be able to interact with them.
+When you navigate to a Slack workspace website, you should no longer be prompted to enable desktop notifications if they're not enabled, see any badge icon indicating activity, or see the "more unreads" buttons. You should not see the Slack activity button. You should be able to see some posts older than 90 days and interact with them.
 
 ## Screenshots
 
