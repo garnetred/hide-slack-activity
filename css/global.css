@@ -15,3 +15,9 @@
 .c-message_kit__hidden_message_blur * {
   pointer-events: auto !important;
 }
+
+[class*="truncate"] {
+  overflow: visible !important;
+  word-break: normal !important;
+  -webkit-box-orient: initial !important;
+}

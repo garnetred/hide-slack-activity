@@ -9,7 +9,8 @@ This Chrome browser extension does the following:
 - removes the activity badge app icon
 - removes the slack activity button to hide the carousel of emojis
 - removes the blur from posts older than 90 days
-- allows users to click and read replies for posts older than 90 days.
+- allows users to click and read replies for posts older than 90 days
+- un-truncates text in messages older than 90 days.
 
 ## Tech Stack
 This project uses vanilla JS, CSS, and HTML.
